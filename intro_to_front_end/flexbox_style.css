@@ -1,0 +1,61 @@
+section {
+  border: solid 2px;
+  margin: 3px;
+  display: flex;
+}
+
+.firstsection {
+  justify-content: space-around;
+}
+
+.secondsection {
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.thirdsection div:nth-child(2){
+  align-self: flex-start;
+  flex-grow: 1;
+}
+
+.fourthsection {
+  align-items: center;
+  flex-direction: column-reverse;
+}
+
+.fifthsection {
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.fifthsection div:first-child {
+  order: 1;
+}
+
+.sixthsection {
+  justify-content: space-between;
+}
+
+.sixthsection section {
+  display: flex;
+  flex-grow: 1;
+}
+
+.sixthsection section:first-child {
+  flex-direction: column;
+}
+
+.sixthsection section:nth-child(2) div {
+  flex-grow: 1;
+}
+
+.sixthsection section:last-child {
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.seventhsection {
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+}
