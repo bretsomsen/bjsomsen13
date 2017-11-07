@@ -3877,3 +3877,13 @@ WARNING    Gtk                       Allocating size to GtkImage 0x55f5cdac5750 
 DEBUG      Gtk                       State 0 for XfcePanelWindowWrapper 0x55f5cdaba310 doesn't match state 128 set via gtk_style_context_set_state ()
 WARNING    Gtk                       Allocating size to GtkImage 0x55f5cdac5750 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
 DEBUG      Gtk                       State 0 for XfcePanelWindowWrapper 0x55f5cdaba310 doesn't match state 128 set via gtk_style_context_set_state ()
+WARNING    Gtk                       Allocating size to GtkImage 0x55f5cdac5750 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+DEBUG      Gtk                       State 0 for XfcePanelWindowWrapper 0x55f5cdaba310 doesn't match state 128 set via gtk_style_context_set_state ()
+WARNING    Gtk                       Allocating size to GtkImage 0x55f5cdac5750 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+DEBUG      Gtk                       State 0 for XfcePanelWindowWrapper 0x55f5cdaba310 doesn't match state 128 set via gtk_style_context_set_state ()
+WARNING    Gtk                       Allocating size to GtkImage 0x55f5cdac5750 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+DEBUG      Gtk                       State 0 for XfcePanelWindowWrapper 0x55f5cdaba310 doesn't match state 128 set via gtk_style_context_set_state ()
+WARNING    Gtk                       Allocating size to GtkImage 0x55f5cdac5750 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+DEBUG      Gtk                       State 0 for XfcePanelWindowWrapper 0x55f5cdaba310 doesn't match state 128 set via gtk_style_context_set_state ()
+WARNING    Gtk                       Allocating size to GtkImage 0x55f5cdac5750 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+DEBUG      Gtk                       State 0 for XfcePanelWindowWrapper 0x55f5cdaba310 doesn't match state 128 set via gtk_style_context_set_state ()

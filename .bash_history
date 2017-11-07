@@ -67,3 +67,14 @@ git init
 git remote add origin https://github.com/bretsomsen/reboot_nw
 git add *
 git commit -m "reboot_nw"
+/home/bret/Desktop/bretsomsen.github.io
+git init
+git add *
+git commit -m "reboot_nw"
+/home/bret/Desktop/bretsomsen.github.io
+git init
+git add
+git add .
+git commit -m "reboot_nw"
+git remote add origin https://github.com/bretsomsen/reboot_nw
+git push -u origin master

@@ -26,8 +26,8 @@ codeforgeek.com:HSTS	0	17456	1523969109607,1,0
 atom.io:HSTS	0	17456	1539740869160,1,0
 avatars1.githubusercontent.com:HSTS	4	17477	1541588403303,1,0
 versioncheck-bg.addons.mozilla.org:HPKP	8	17476	1515112398081,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
-api.github.com:HSTS	7	17477	1541566953761,1,1
-github.com:HSTS	9	17477	1541566953392,1,1
+api.github.com:HSTS	7	17477	1541567406843,1,1
+github.com:HSTS	9	17477	1541567405748,1,1
 um.simpli.fi:HSTS	2	17476	1573020267136,1,1
 self-repair.mozilla.org:HSTS	1	17457	1539822956516,1,1
 live.github.com:HSTS	1	17477	1541566953901,1,0
@@ -50,7 +50,7 @@ cdn.pixabay.com:HSTS	0	17476	1541485339542,1,0
 bretsomsen.github.io:HSTS	2	17476	1541511700028,1,0
 c.disquscdn.com:HSTS	0	17477	1510018209109,1,1
 www.google.com:HSTS	1	17477	1510114966124,1,0
-collector.githubapp.com:HSTS	7	17477	1541566953329,1,0
+collector.githubapp.com:HSTS	7	17477	1541567406523,1,0
 csync.us1.sap-xm.org:HSTS	0	17462	1540334534631,1,1
 syndication.twitter.com:HSTS	5	17477	2141156426419,1,0
 glitter.services.disqus.com:HSTS	0	17477	1510018210349,1,1
