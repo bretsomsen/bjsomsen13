@@ -1,0 +1,22 @@
+[CLIENT] 0x3800010
+  [CLIENT_ID] 2c15c1379-32f7-4df0-9b43-c025db17d347
+  [CLIENT_LEADER] 0x3800001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] Firefox
+  [WM_NAME] Problem loading page - Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,49,1600,851)
+  [GEOMETRY-MAXIMIZED] (515,97,1085,803)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3a00001
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] resume.html — ~ — Atom
+  [GEOMETRY] (2,49,1597,850)
+  [GEOMETRY-MAXIMIZED] (2,49,1597,850)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10100

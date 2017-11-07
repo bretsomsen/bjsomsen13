@@ -1,0 +1,6 @@
+
+(xfce4-terminal:1976): Gdk-[1;35mCRITICAL[0m **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:2304): Gdk-[1;35mCRITICAL[0m **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:2419): Gdk-[1;35mCRITICAL[0m **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed

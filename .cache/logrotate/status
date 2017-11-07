@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/home/bret/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_xfsettingsd.1000.crash.log" 2017-11-1-16:35:59
+"/home/bret/.cache/upstart/indicator-application.log" 2017-10-23-18:30:25
+"/home/bret/.cache/upstart/update-notifier-crash-_var_crash__opt_atom_atom.1000.crash.log" 2017-11-6-20:22:55
+"/home/bret/.cache/upstart/indicator-sound.log" 2017-11-6-20:22:55
+"/home/bret/.cache/upstart/startxfce4.log" 2017-11-6-20:22:55
+"/home/bret/.cache/upstart/upstart-dbus-session-bridge.log" 2017-10-23-18:30:25
+"/home/bret/.cache/upstart/gpg-agent.log" 2017-11-6-20:22:55
+"/home/bret/.cache/upstart/*.log" 2017-10-18-7:0:0
+"/home/bret/.cache/upstart/update-notifier-release.log" 2017-11-6-20:22:55
+"/home/bret/.cache/upstart/gnome-keyring-ssh.log" 2017-11-6-20:22:55
+"/home/bret/.cache/upstart/upstart-event-bridge.log" 2017-11-6-20:22:55

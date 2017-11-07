@@ -1,0 +1,100 @@
+[CLIENT] 0x3800010
+  [CLIENT_ID] 235aa3269-b011-46d6-82f0-ea10116f06a0
+  [CLIENT_LEADER] 0x3800001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] Firefox
+  [WM_NAME] Create a Workspace | Slack - Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,49,1600,851)
+  [GEOMETRY-MAXIMIZED] (-84,64,1085,803)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4000207
+  [CLIENT_ID] 262e20311-011c-40ea-992d-f5c08b332bcd
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] xfce4-terminal-1508991032--1949593686
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - bret@bret-HP-EliteBook-8460p: ~/Desktop/bretsomsen.github.io
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (511,294,577,359)
+  [GEOMETRY-MAXIMIZED] (511,294,577,359)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x18011f6
+  [CLIENT_ID] 25c583309-7dcc-4db5-ba29-01bbdfddf2eb
+  [CLIENT_LEADER] 0x1800001
+  [WINDOW_ROLE] Thunar-1508990352-1159677190
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] intro_to_front_end - File Manager
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (697,223,640,480)
+  [GEOMETRY-MAXIMIZED] (697,223,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x40001a1
+  [CLIENT_ID] 262e20311-011c-40ea-992d-f5c08b332bcd
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] xfce4-terminal-1508990132--1425767251
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - bret@bret-HP-EliteBook-8460p: ~/Desktop
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (511,294,577,359)
+  [GEOMETRY-MAXIMIZED] (511,294,577,359)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x40000ad
+  [CLIENT_ID] 262e20311-011c-40ea-992d-f5c08b332bcd
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] xfce4-terminal-1508990056--1524428229
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - bret@bret-HP-EliteBook-8460p: ~/Desktop
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (511,294,577,359)
+  [GEOMETRY-MAXIMIZED] (511,294,577,359)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x4000004
+  [CLIENT_ID] 262e20311-011c-40ea-992d-f5c08b332bcd
+  [CLIENT_LEADER] 0x4000001
+  [WINDOW_ROLE] xfce4-terminal-1508989691--1180775767
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - bret@bret-HP-EliteBook-8460p: ~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (511,294,577,359)
+  [GEOMETRY-MAXIMIZED] (511,294,577,359)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x1800004
+  [CLIENT_ID] 25c583309-7dcc-4db5-ba29-01bbdfddf2eb
+  [CLIENT_LEADER] 0x1800001
+  [WINDOW_ROLE] Thunar-1508969915-957534635
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] intro_to_front_end - File Manager
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (959,49,640,480)
+  [GEOMETRY-MAXIMIZED] (959,49,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x3e00001
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] style.css — ~ — Atom
+  [GEOMETRY] (2,49,1597,850)
+  [GEOMETRY-MAXIMIZED] (2,49,1597,850)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10180

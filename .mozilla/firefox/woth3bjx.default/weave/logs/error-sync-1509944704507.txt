@@ -1,0 +1,23 @@
+1509941104505	Sync.LogManager	DEBUG	Flushing file log
+1509941104514	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1509941104514	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1509941104515	browserwindow.syncui	DEBUG	observed: weave:ui:clear-error
+1509941104533	Sync.LogManager	DEBUG	Log cleanup threshold time: 1509077104533
+1509941104550	Sync.LogManager	DEBUG	Done deleting files.
+1509944704484	Sync.Service	DEBUG	User-Agent: Firefox/54.0 (Linux x86_64) FxSync/1.56.0.20170612122018.desktop
+1509944704484	Sync.Service	INFO	Starting sync at 2017-11-05 21:05:04 in browser session P2X1bnq0TeSz
+1509944704485	Sync.Service	DEBUG	In sync: should login.
+1509944704485	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1509944704487	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1509944704487	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1509944704488	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1509944704488	browserwindow.syncui	DEBUG	onLoginError: login=error.login.reason.no_username, sync=success.sync
+1509944704489	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1509944704490	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1509944704491	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1509944704495	Sync.Service	DEBUG	Exception calling WrappedLock: Aborting login, client not configured.
+1509944704495	Sync.Service	DEBUG	Not syncing: login returned false.
+1509944704502	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1509944704504	browserwindow.syncui	DEBUG	loginFailed has sync state=error.login.reason.no_username
+1509944704505	Sync.ErrorHandler	DEBUG	Addons installed: 1
+1509944704506	Sync.ErrorHandler	DEBUG	 - Ubuntu Modifications, version 3.2, id ubufox@ubuntu.com

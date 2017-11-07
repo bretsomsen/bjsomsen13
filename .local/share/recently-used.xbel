@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/bret" added="2017-10-17T01:57:33Z" modified="2017-10-17T02:35:39Z" visited="2017-10-17T01:57:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-17T02:35:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/index.html" added="2017-10-17T02:10:53Z" modified="2017-10-17T02:10:53Z" visited="2017-10-17T02:10:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-17T02:10:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Documents/index.html" added="2017-10-17T02:11:16Z" modified="2017-10-17T03:44:19Z" visited="2017-10-17T02:11:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-17T02:11:16Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-17T03:44:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro%20to%20front-end/something.html" added="2017-10-17T02:37:10Z" modified="2017-10-19T03:33:40Z" visited="2017-10-17T02:37:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-19T03:33:40Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-10-17T03:43:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro%20to%20front-end/form.html" added="2017-10-17T03:52:14Z" modified="2017-10-17T03:52:14Z" visited="2017-10-17T03:52:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-17T03:52:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro%20to%20front-end/style.css" added="2017-10-18T02:23:01Z" modified="2017-10-19T03:33:57Z" visited="2017-10-18T02:23:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-19T03:33:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro%20to%20front-end/zenmockup.html" added="2017-10-19T03:15:29Z" modified="2017-10-19T03:15:29Z" visited="2017-10-19T03:15:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-19T03:15:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro_to_front_end" added="2017-10-23T21:51:24Z" modified="2017-10-23T21:51:24Z" visited="2017-10-23T21:51:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-23T21:51:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro_to_front_end/advanced_zenmockup.html" added="2017-10-24T00:27:08Z" modified="2017-10-24T00:28:20Z" visited="2017-10-24T00:27:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-24T00:28:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro_to_front_end/advanced_zenstyle.css" added="2017-10-24T00:28:09Z" modified="2017-10-24T00:28:47Z" visited="2017-10-24T00:28:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-24T00:28:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro_to_front_end/flex.html" added="2017-10-24T02:52:42Z" modified="2017-10-24T03:03:05Z" visited="2017-10-24T02:52:42Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-24T02:52:42Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-10-24T03:03:05Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro_to_front_end/flex.css" added="2017-10-24T02:53:07Z" modified="2017-10-24T03:48:45Z" visited="2017-10-24T02:53:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-24T03:48:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro_to_front_end/flexbox.html" added="2017-10-24T03:44:26Z" modified="2017-11-01T23:40:17Z" visited="2017-10-24T03:44:27Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-11-01T23:40:17Z" count="2"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-10-24T03:52:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro_to_front_end/flexbox_style.css" added="2017-10-24T03:45:03Z" modified="2017-10-24T03:45:03Z" visited="2017-10-24T03:45:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-10-24T03:45:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/style.css" added="2017-10-26T04:02:24Z" modified="2017-10-26T04:02:24Z" visited="2017-10-26T04:02:24Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-10-26T04:02:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/reboot_nw/resume.html" added="2017-11-01T23:38:00Z" modified="2017-11-02T00:05:12Z" visited="2017-11-01T23:38:00Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-11-01T23:38:00Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2017-11-02T00:05:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/reboot_nw/resume.css" added="2017-11-01T23:39:50Z" modified="2017-11-01T23:39:50Z" visited="2017-11-01T23:39:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-11-01T23:39:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/intro_to_front_end/form.html" added="2017-11-01T23:40:43Z" modified="2017-11-01T23:40:43Z" visited="2017-11-01T23:40:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2017-11-01T23:40:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_bret0/Bret%20SomsenResume.doc" added="2017-11-02T00:50:25Z" modified="2017-11-02T00:52:43Z" visited="2017-11-02T00:50:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-02T00:50:25Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-11-02T00:52:43Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/reboot_nw/Bret%20SomsenResume.doc" added="2017-11-02T00:52:12Z" modified="2017-11-02T00:52:12Z" visited="2017-11-02T00:52:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-11-02T00:52:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/reboot_nw/Bret%20SomsenResume.odf" added="2017-11-02T00:52:42Z" modified="2017-11-02T00:52:42Z" visited="2017-11-02T00:52:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.formula"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-11-02T00:52:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/reboot_nw/Bret%20SomsenResume.odf.odt" added="2017-11-02T00:52:43Z" modified="2017-11-02T00:52:43Z" visited="2017-11-02T00:52:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-11-02T00:52:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/reboot_nw/FishingResume.odt" added="2017-11-02T01:13:12Z" modified="2017-11-06T08:29:12Z" visited="2017-11-02T01:13:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-11-06T08:29:12Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/reboot_nw/BarResume.odt" added="2017-11-06T07:22:02Z" modified="2017-11-06T07:22:02Z" visited="2017-11-06T07:22:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-11-06T07:22:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/reboot_nw/advanced_zenmockup.html" added="2017-11-07T01:38:38Z" modified="2017-11-07T04:43:20Z" visited="2017-11-07T01:38:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-07T04:43:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/reboot_nw/advanced_zenstyle.css" added="2017-11-07T04:43:28Z" modified="2017-11-07T04:43:28Z" visited="2017-11-07T04:43:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-07T04:43:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/reboot_nw/BarResume.odt" added="2017-11-07T04:43:35Z" modified="2017-11-07T04:43:35Z" visited="2017-11-07T04:43:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-07T04:43:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/reboot_nw/FishingResume.odt" added="2017-11-07T04:43:41Z" modified="2017-11-07T04:43:41Z" visited="2017-11-07T04:43:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-07T04:43:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/reboot_nw/resume.css" added="2017-11-07T04:43:48Z" modified="2017-11-07T04:43:48Z" visited="2017-11-07T04:43:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-07T04:43:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/reboot_nw/resume.html" added="2017-11-07T04:43:56Z" modified="2017-11-07T04:43:56Z" visited="2017-11-07T04:43:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-07T04:43:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/reboot_nw/zenmockup.html" added="2017-11-07T04:44:02Z" modified="2017-11-07T04:44:02Z" visited="2017-11-07T04:44:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-07T04:44:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bret/Desktop/bretsomsen.github.io/reboot_nw/zenstyle.css" added="2017-11-07T04:44:09Z" modified="2017-11-07T04:44:09Z" visited="2017-11-07T04:44:09.966666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-11-07T04:44:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

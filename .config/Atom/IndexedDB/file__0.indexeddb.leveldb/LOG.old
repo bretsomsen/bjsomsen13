@@ -1,0 +1,24 @@
+2017/11/06-13:38:04.474 1724 Reusing MANIFEST /home/bret/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2017/11/06-13:38:04.475 1724 Recovering log #944
+2017/11/06-13:38:04.522 1724 Reusing old log /home/bret/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000944.log 
+2017/11/06-13:42:56.500 1929 Level-0 table #948: started
+2017/11/06-13:42:56.660 1929 Level-0 table #948: 1468230 bytes OK
+2017/11/06-13:42:56.708 1929 Delete type=0 #944
+2017/11/06-13:42:56.710 1929 Compacting 4@0 + 1@1 files
+2017/11/06-13:42:56.840 1929 Generated table #949@0: 5 keys, 245700 bytes
+2017/11/06-13:42:56.840 1929 Compacted 4@0 + 1@1 files => 245700 bytes
+2017/11/06-13:42:56.890 1929 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/11/06-13:42:56.890 1929 Delete type=2 #945
+2017/11/06-13:42:56.891 1929 Delete type=2 #939
+2017/11/06-13:42:56.891 1929 Delete type=2 #943
+2017/11/06-13:42:56.891 1929 Delete type=2 #941
+2017/11/06-13:42:56.892 1929 Delete type=2 #948
+2017/11/06-13:47:31.334 1929 Level-0 table #951: started
+2017/11/06-13:47:31.482 1929 Level-0 table #951: 1472901 bytes OK
+2017/11/06-13:47:31.530 1929 Delete type=0 #947
+2017/11/06-13:47:55.762 1929 Level-0 table #953: started
+2017/11/06-13:47:55.898 1929 Level-0 table #953: 1475515 bytes OK
+2017/11/06-13:47:55.948 1929 Delete type=0 #950
+2017/11/06-13:49:27.891 1929 Level-0 table #955: started
+2017/11/06-13:49:28.049 1929 Level-0 table #955: 1477693 bytes OK
+2017/11/06-13:49:28.089 1929 Delete type=0 #952

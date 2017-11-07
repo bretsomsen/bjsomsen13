@@ -1,0 +1,5 @@
+[Added Associations]
+text/html=exo-web-browser.desktop;
+text/css=mousepad.desktop;
+text/plain=mousepad.desktop;
+application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
